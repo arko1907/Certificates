@@ -12,8 +12,11 @@ Welcome to the academic credentials section of my GitHub profile. This repositor
 - **Result**: *Qualified for Assistant Professor*
 - **Score**: 240/350 (68.57%)
 - **Certificate Issued**: 10-Feb-2016
-- 📄 [`NET Certificate`](./net_2014_Certificate.pdf)  
-- 📄 [`NET Scorecard`](./UGC%20NET%20Result_Arko.pdf)
+- **Recognition**: Secured  **Top 41 All India Rank** in the all the university examinations
+- 📄 [`NET Certificate`](https://github.com/arko1907/Certificates/blob/main/net_2014_Certificate.pdf)  
+- 📄 [`NET Scorecard`](https://github.com/arko1907/Certificates/blob/main/UGC%20NET%20Result_Arko.pdf)
+- 📄 [`NET Cutoff`](https://github.com/arko1907/Certificates/blob/main/net_2014_cuttof.pdf)
+
 
 ---
 
@@ -23,15 +26,15 @@ Welcome to the academic credentials section of my GitHub profile. This repositor
 - **Result**: *Qualified for Assistant Professor in West Bengal*
 - **Exam Date**: 14-Dec-2014
 - **Certificate Issued**: 08-Jul-2015
-- 📄 [`SET Certificate`](./SET%202014%20Certificate.pdf)  
-- 🖼 [`SET Result Snapshot`](./Set_Result_Arko.jpg)
+- 📄 [`SET Certificate`](https://github.com/arko1907/Certificates/blob/main/SET%202014%20Certificate.pdf)  
+- 🖼 [`SET Result Snapshot`](https://github.com/arko1907/Certificates/blob/main/Set_Result_Arko.jpg)
 
 ---
 
 ### 🛠 **Bachelor of Engineering – University Rank Holder**
 - **University**: The University of Burdwan
-- **Degree**: B.E. in [Branch not specified in certificate]
-- **Recognition**: Secured a **Top Rank** in the final university examination
+- **Degree**: B.E. in [Computer Science and Engineering]
+- **Recognition**: Secured  **1st Rank** in the all the university examinations
 - 📄 [`University Rank Certificate`](https://github.com/arko1907/Certificates/blob/main/B.E%20Rank%20Certificate.pdf)
 
 ---
